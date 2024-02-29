@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gwendolyn
 - 👀 I’m interested in art, programming and gaming
-- 🌱 I’m currently learning graphic design
+- 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me esselgwendolyn@gmail.com
 - 😄 Pronouns: she/her
